@@ -1,10 +1,9 @@
 # Demo Web 
 
 ## Description
-
-
+My first react proyect, i based my proyect from:https://github.com/duytq94/reactjs-chat-demo 
+This is a early version to see how work props and firestore snapshot
 ## Screenshot
-<img src="https://raw.githubusercontent.com/duytq94/reactjs-chat-demo/master/screenshots/ReactJSChatDemo.gif" height="80%" width="80%">
 
 ## How to run
 * Clone this project
